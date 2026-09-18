@@ -1,0 +1,9 @@
+{
+  "name": "Расчет раскладки изделий на печатном листе",
+  "short_name": "Раскладка листа",
+  "description": "Калькулятор раскладки изделий на печатном листе.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f7fa",
+  "theme_color": "#2c3e50"
+}

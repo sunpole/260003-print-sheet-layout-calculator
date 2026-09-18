@@ -1,0 +1,13 @@
+{
+  "id": "260003",
+  "slug": "print-sheet-layout-calculator",
+  "name": "Расчет раскладки изделий на печатном листе",
+  "version": "0.1.0",
+  "visibility": "public",
+  "repository": "https://github.com/sunpole/260003-print-sheet-layout-calculator",
+  "pages": "https://sunpole.github.io/260003-print-sheet-layout-calculator/",
+  "legacySource": "https://github.com/sunpole/stilist/tree/main/320",
+  "legacyPath": "C:\\!CODE_CLUB\\stilist\\320",
+  "screenshot": "screenshot-2026-09-18.png",
+  "status": "prepared-for-publication"
+}
